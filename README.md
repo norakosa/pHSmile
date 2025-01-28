@@ -9,3 +9,5 @@ Early detection of cavities typically depends on visible damage or X-rays, which
 Our goal is to create an accurate NFC pH sensor designed to adhere to a mouthguard, enabling the continuous, real-time monitoring of salivary pH levels. This device will be small, biocompatible, and ideal for seamless integration into the oral environment.
 # Methodolgy
 The methodology involves using an NFC transponder and a silver ink tag integrated onto a PCB. The NFC chip PCB is designed to adhere to a dental crown or tray, facilitating its placement within the oral environment. The system operates at a base resonance frequency of 13.56 MHz, with shifts in this frequency indicating changes in pH. These shifts are transmitted to a microcontroller for processing. The transmitter communicates with the microcontroller, which incorporates an SD card for data storage. The stored data is then analyzed using MATLAB, where the resonance frequency shifts are correlated to known pH levels to enable accurate pH detection.
+![pHSmile Logo](assets/images/pHSmile.png)
+
