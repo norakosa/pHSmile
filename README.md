@@ -1,4 +1,4 @@
-# pHSmile
+# Non-Invasive Diagnostic Device for the Detection and Monitoring of Bacterial Acidogenesis on Dental Enamel
 # About Me 
 We are undergraduate students at the Universory of New Hampshire studying electrical engineerifn with a biomedical engineering option. Inspired by the biomedical Nora wanted to explore the world of oral devices. 
 # Research Focus
