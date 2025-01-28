@@ -1,5 +1,5 @@
 # Non-Invasive Diagnostic Device for the Detection and Monitoring of Bacterial Acidogenesis on Dental Enamel
 # About Me 
-We are undergraduate students at the Universory of New Hampshire studying electrical engineerifn with a biomedical engineering option. Inspired by the biomedical Nora wanted to explore the world of oral devices. 
+We are both undergraduate students at the University of New Hampshire, studying Electrical Engineering with a Biomedical Engineering option. Inspired by advancements in biomedical technology, Nora from Boxford MA developed a passion for exploring innovative oral health devices. 
 # Research Focus
-Our research is focused on a device that monitors pH in the mouth since that is the main root of causing cavities. 
+Our research centers on developing a device that monitors pH levels in the mouth, addressing one of the primary causes of cavities. By utilizing Near Field Communication (NFC) technology, our device operates wirelessly and without the need for batteries, making it a groundbreaking solution in oral health diagnostics. NFC enables both power transmission and data communication, allowing for a compact, non-invasive design that integrates seamlessly with everyday life. This novel approach provides a more accessible and efficient method for early detection and prevention of dental issues, offering significant advancements in oral health care.
