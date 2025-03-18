@@ -10,5 +10,5 @@ Our goal is to create an accurate NFC pH sensor designed to adhere to a mouthgua
 # Methodolgy
 The methodology involves using an NFC transponder and a silver ink tag integrated onto a PCB. The NFC chip PCB is designed to adhere to a dental crown or tray, facilitating its placement within the oral environment. The system operates at a base resonance frequency of 13.56 MHz, with shifts in this frequency indicating changes in pH. These shifts are analyzed using a NanoVNA.
 # Where Are We Now?
-Right now, we are finishing up our senior project. More specifically, we are designing our own NFC to be smaller, allowing it to fit between at most two teeth. Additionally, we are in the second round of the Holloway Competition and are pursuing the VentureWell E-Team Program.
+Right now, we are finishing up our senior project. More specifically, we are designing our own NFC to be smaller, allowing it to fit on at most two teeth. Additionally, we are in the second round of the Holloway Competition and are pursuing the VentureWell E-Team Program.
 
